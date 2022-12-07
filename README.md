@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors)
 
 
 
@@ -58,9 +58,5 @@ When a person applies for a loan, there are two types of decisions that could be
 - Pandas , Numpy , Matplotlib , Seaborn
 
 
-## Acknowledgements
-- References provided by Ishant Wadhwa, Data Scientist at Zupee
-
-
-## Contact
-Created by [@milanpriyaranjan] and - feel free to contact me!
+## Contributors
+Created by @milanpriyaranjan and Chaitnya Gadela- feel free to contact me!
